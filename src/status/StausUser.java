@@ -7,7 +7,7 @@ package status;
 
 /**
  * MidTerm-Exam
- * @author srinivsi
+ * @author srinivsi + macleagr
  */
 public class StausUser 
 {
